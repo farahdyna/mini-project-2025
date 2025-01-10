@@ -1,0 +1,26 @@
+SEKOLAH MENENGAH KEBANGSAAN MELATI,,,,,,,,,
+,,,,,,,,,
+,,TRIAL SPM,,,,,,,
+,,SUBJECT,,,,,,,
+,,BM,,ENG,,MATH,,SAINS,
+CLASS,STUDENT ,PASS,FAIL,PASS,FAIL,PASS,FAIL,PASS,FAIL
+ARKID,30,30,-,30,-,30,-,30,-
+BAIDURI,33,33,-,33,-,33,-,33,-
+DELIMA,33,33,-,33,-,31,2,33,-
+MUTIARA,32,32,-,32,-,28,4,32,-
+NILAM,33,32,1,32,1,33,-,31,2
+ZAMRUD,29,26,3,29,-,24,5,28,1
+,,,,,,,,,
+,,SUBJECT,,,,,,,
+,,bm,,eng,,math,,sains,
+total student,190,186,4,189,1,179,11,187,3
+,,,,,,,,,
+,pass,fail,,,,,,,
+percentage,bm,,,,,,,,
+,97.89%,2.11%,,,,,,,
+,eng,,,,,,,,
+,99.47%,0.53%,,,,,,,
+,math,,,,,,,,
+,94.21%,5.79%,,,,,,,
+,sains,,,,,,,,
+,98.42%,1.58%,,,,,,,
