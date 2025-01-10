@@ -52,7 +52,7 @@ total student ,190,,,,,
 ,,,,,,
 subject,bm ,,,,,
 gred,A,B,C,D,E,F
-percentage,50.53%,28.42%,14.74%,4.21%,-,2.11%
+percentage,50.53%,28.42%,14.74%,4.21%,0,2.11%
 ,,,,,,
 subject,eng,,,,,
 gred,A,B,C,D,E,F
@@ -65,6 +65,3 @@ percentage,22.11%,28.95%,27.89%,8.42%,6.84%,5.79%
 subject,sains,,,,,
 gred,A,B,C,D,E,F
 percentage,30.53%,26.32%,23.68%,14.21%,3.68%,1.58%
-,,,,,,
-,,,,,,
-,,,,,,
